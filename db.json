@@ -91,13 +91,13 @@
       "id": 14
     },
     {
-      "name": "sonali",
-      "username": "Sonali Rout",
-      "email": "sonali.rout.5057@gmail.com",
-      "mobile": "9635827526",
-      "password": "Sonali2123",
+      "name": "Johnn",
+      "username": "John Doe",
+      "email": "john@gmail.com",
+      "mobile": "8798765907",
+      "password": "John@123",
       "role": "User",
-      "id": 15
+      "id": 16
     }
   ],
   "role": [

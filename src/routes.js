@@ -4,7 +4,6 @@ import DashboardLayout from './layouts/dashboard';
 // import SimpleLayout from './layouts/simple';
 //
 import UserPage from './pages/UserPage';
-import Page404 from './pages/Page404';
 import RolePage from './pages/RolePage';
 import AddEditRole from './pages/AddEditRole';
 import AddEditUser from './pages/AddEditUser';
@@ -26,10 +25,7 @@ export default function Router() {
         { path: 'update-role/:id', element: <AddEditRole /> },
       ],
     },
-    {
-      path: '*',
-      element: <Navigate to="/404" replace />,
-    },
+   
   ]);
 
   return routes;
