@@ -1,0 +1,117 @@
+{
+  "user": [
+    {
+      "name": "Satishs",
+      "username": "Satish Singh",
+      "email": "satish@gmail.com",
+      "mobile": 9758963256,
+      "password": "Satish@123",
+      "role": "Sub-admin",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "John",
+      "username": "John Doe",
+      "email": "john@gmail.com",
+      "mobile": 9986523563,
+      "password": "john@123",
+      "role": "Admin"
+    },
+    {
+      "id": 5,
+      "name": "Jems",
+      "username": "Jems Jhones",
+      "email": "jems@gmail.com",
+      "mobile": 9152635699,
+      "password": "jems@123",
+      "role": "Sub-admin"
+    },
+    {
+      "id": 6,
+      "name": "Manish",
+      "username": "Manish Singh",
+      "email": "satheesh@gmail.com",
+      "mobile": 8745263985,
+      "password": "sathees@123",
+      "role": "User"
+    },
+    {
+      "name": "Sejal Amancha",
+      "username": "sejal_amancha",
+      "email": "admin@gmail.com",
+      "mobile": "9898989898",
+      "password": "Sej@1234",
+      "role": "Admin",
+      "id": 8
+    },
+    {
+      "name": "Sonali",
+      "username": "Sonali",
+      "email": "sonali@gmail.com",
+      "mobile": "9898989898",
+      "password": "Sonali@123",
+      "role": "User",
+      "id": 9
+    },
+    {
+      "name": "nihals",
+      "username": "nihalKoli",
+      "email": "NihalKoli@gmail.com",
+      "mobile": "9054202926",
+      "password": "Shubham@8585",
+      "role": "Sub-admin",
+      "id": 10
+    },
+    {
+      "name": "ram",
+      "username": "ramdhan",
+      "email": "ramdhan@gmail.com",
+      "mobile": "8585256314",
+      "password": "Shubham@789654",
+      "role": "User",
+      "id": 11
+    },
+    {
+      "name": "Aaksh",
+      "username": "nihalKoli",
+      "email": "aniket.bediskar.5057@gmail.com",
+      "mobile": "9054202926",
+      "password": "Shubham@9898",
+      "role": "Admin",
+      "id": 12
+    },
+    {
+      "name": "bhumi",
+      "username": "bhumi",
+      "email": "bhumi@gmail.com",
+      "mobile": "8585784521",
+      "password": "Shubham@8585",
+      "role": "User",
+      "id": 14
+    },
+    {
+      "name": "sonali",
+      "username": "Sonali Rout",
+      "email": "sonali.rout.5057@gmail.com",
+      "mobile": "9635827526",
+      "password": "Sonali2123",
+      "role": "User",
+      "id": 15
+    }
+  ],
+  "role": [
+    {
+      "name": "Admin",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Sub-admin"
+    },
+    {
+      "id": 3,
+      "name": "User"
+    }
+  ]
+}
